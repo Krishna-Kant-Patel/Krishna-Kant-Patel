@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working at ATG as a MERN stack developer.
+- 🔭 I’m currently working at ATG as a MERN stack developer intern.
 - 🌱 I’m currently learning Fullstack Development 
 - 👯 I’m looking to collaborate on Free Lancing 
 - 💬 Ask me about React, JavaScript, Java, CSS, Html
