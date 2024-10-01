@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at ATG as a MERN stack developer intern.
 - 🌱 I’m currently learning Fullstack Development 
 - 👯 I’m looking to collaborate on Free Lancing 
-- 💬 Ask me about React, JavaScript, Java, CSS, Html
+- 💬 Ask me about ReactJS, NodeJS, JavaScript, Java, Tailwind CSS, CSS, Html
 - 📫 How to reach me: Email me on cu.17bcs1796@gmail.com or call me no.-(+91)-9026330162
 - ⚡ Fun fact: I love coding.....
 
